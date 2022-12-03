@@ -1,0 +1,4 @@
+test_ignore.docx
+*.log
+*~
+thumbs.db
